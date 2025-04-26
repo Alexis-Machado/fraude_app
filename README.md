@@ -49,7 +49,7 @@ pip install -r requirements.txt
 
 1. **Clona el repositorio**:
    ```bash
-   git clone https://github.com/tu_usuario/fraude_app.git
+   https://github.com/Alexis-Machado/fraude_app.git
    ```
 
 2. **Crea un entorno virtual**:
