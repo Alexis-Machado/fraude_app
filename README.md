@@ -5,7 +5,7 @@
 <p align="center">
   🚀 Aplicación desplegada:  
   <a href="https://fraude-app.onrender.com/" target="_blank">
-    https://alexis-machado-fraude-app-fraude-app-xxpz1c.streamlit.app/
+    https://fraude-app.onrender.com/
   </a>
 </p>
 
