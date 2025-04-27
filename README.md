@@ -2,6 +2,13 @@
   <img src="https://www.iudigital.edu.co/images/11.-IU-DIGITAL.png" alt="IU Digital" width="350">
 </p>
 
+<p align="center">
+  🚀 Aplicación desplegada:  
+  <a href="https://alexis-machado-fraude-app-fraude-app-xxpz1c.streamlit.app/" target="_blank">
+    https://alexis-machado-fraude-app-fraude-app-xxpz1c.streamlit.app/
+  </a>
+</p>
+
 # 💳 Simulación Sistema de Detección de Fraudes con Deep Learning
 
 ¡Bienvenido al proyecto Simulación de detección de fraudes financieros usando Deep Learning! 🎉
